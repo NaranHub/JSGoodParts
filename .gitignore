@@ -1,7 +1,6 @@
 # Ignore files added by Visual Studio Code's lint
 node_modules/
 =*
-package.json
 .eslintrc.json
 
 # Ignore MacOS's system files
